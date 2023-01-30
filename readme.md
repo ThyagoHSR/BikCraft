@@ -1,5 +1,4 @@
-<h1 align=center>
-<img src="assets/bikcraft.svg">
+<img src="assets/bikcraft.svg" align=center>
 <h2>📄 Sobre o Projeto</h2>
 <br>
 • O projeto BikeCraft foi feito a partir do curso Front end e UX UI Design da Origamid onde usei grid layout e flexbox.<br> • Criado em 29/01/2023.
