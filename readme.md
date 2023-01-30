@@ -11,7 +11,7 @@
 <img src="assets/tela2.png">
 <br><br>
 <img src="assets/mobile1.jpeg" width=281px height=550px>
-<img src="assets/mobile2.jpeg" width=281px height=550px align=center>
+<img src="assets/mobile2.jpeg" width=281px height=550px align=left>
 <br><br>
 <h1>💻 Tecnologias utilizadas</h1>
 <p>• HTML</p>
